@@ -12,7 +12,7 @@ and here we are today!
 
 Let's React Natively Together. Join Me!
 
-THE END
+*THE END*
 
-GLORY TO GOD
+*GLORY TO GOD*
 
