@@ -6,7 +6,9 @@
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
-    "web": "expo start --web"
+    "web": "expo start --web",
+    "start:wsl": "REACT_NATIVE_PACKAGER_HOSTNAME=192.168.0.100 expo start",
+    "DebieRise": "https://dl.google.com/android/repository/commandlinetools-linux-11076708_latest.zip"
   },
   "dependencies": {
     "expo": "~51.0.28",
