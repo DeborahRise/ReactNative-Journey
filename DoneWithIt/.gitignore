@@ -33,3 +33,6 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+#mounssif and I config
+forward_wsl2_ports.ps1
